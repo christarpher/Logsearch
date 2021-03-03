@@ -1,0 +1,6 @@
+Feb 15 18:24:13 hub-01 dd.forwarder[21577]: INFO (transaction.py:177): Flushing 2 transactions during flush #25340
+Feb 15 18:25:01 hub-01 CRON[12320]: (root) CMD (command -v debian-sa1 > /dev/null && debian-sa1 1
+Feb 15 18:25:01 hub-01 systemd[1]: Starting Checks ntp to ensure offsets are within threshold...
+Feb 15 18:25:01 hub-01 systemd[1]: Started Checks ntp to ensure offsets are within threshold.
+Feb 15 18:25:13 hub-01 dd.forwarder[21577]: INFO (transaction.py:177): Flushing 1 transaction during flush #25360
+Feb 15 18:25:50 hub-01 dd.dogstatsd[21581]: INFO (dogstatsd.py:276): Flush #7770: flushed 481 metrics, 0 events, and 1 service check run
